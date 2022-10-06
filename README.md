@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnsrt
 - 👀 I’m interested in everything related to coding
-- 🌱 I’m currently learning Java, Spring Boot, Thymeleaf, Vue, React, JavaScript, TypeScript, Bootstrap, CSS
+- 🌱 I’m currently learning Java, Spring Boot, Thymeleaf, Vue, React, JavaScript, TypeScript, Bootstrap
 
 
 <!---
